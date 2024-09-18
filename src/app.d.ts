@@ -8,9 +8,6 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
-	interface Navigator {
-		bluetooth: Bluethooth;
-	}
 }
 
 export {};
